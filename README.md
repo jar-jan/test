@@ -1,3 +1,3 @@
 # test
 repozytorium testowe
- po mdyfikacji
+ po modyfikacji
